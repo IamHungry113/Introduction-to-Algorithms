@@ -1,2 +1,2 @@
 # Introduction-to-Algorithms
-For some realizations of the title and thinking of the book Introduction to Algorithms, if there is something wrong, please correct me.
+Some implementations of the topics in Introduction to Algorithms and some reflections on the content of the book, if there is anything wrong, please correct me.
